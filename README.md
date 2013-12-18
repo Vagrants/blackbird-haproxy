@@ -3,12 +3,12 @@ blackbird-haproxy
 
 Get result of following command(not shell command) result.
 
-* show errors
-* show info
 * show stat
 
-Suppoted??
+Not Suppoted
 
+* show errors
+* show info
 * show sess
 * show table
 

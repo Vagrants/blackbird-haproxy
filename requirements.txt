@@ -1,1 +1,0 @@
--e git+ssh://git@ghe.amb.ca.local:Unified/blackbird.git#egg=blackbird
