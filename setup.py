@@ -11,7 +11,7 @@ setup(
     version='0.1.0',
     description=(
         'Get stats of HAProxy for blackbird'
-        'by using "show stats command".'
+        'by using "show stats".'
     ),
     author='ARASHI, Jumpei',
     author_email='jumpei.arashi@arashike.com',
