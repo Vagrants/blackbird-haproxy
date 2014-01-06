@@ -51,5 +51,5 @@ rm -rf $RPM_BUILD_ROOT
 %{plugins_dir}/haproxy.*
 
 %changelog
-* Mon Jan 06 2014 ARASHI, Jumpei <jumpei.arashi@arashike.com> - 0.1.1-2
+* Mon Jan 06 2014 ARASHI, Jumpei <jumpei.arashi@arashike.com> - 0.1.0-1
 - Initial package
