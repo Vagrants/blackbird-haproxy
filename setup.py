@@ -15,8 +15,5 @@ setup(
     ),
     author='ARASHI, Jumpei',
     author_email='jumpei.arashi@arashike.com',
-    url='http://ghe.amb.ca.local/Unified/blackbird-haproxy',
-    data_files=[
-        ('/opt/blackbird/plugins', ['haproxy.py'])
-    ]
+    url='https://github.com/Vagrants/blackbird-haproxy',
 )
